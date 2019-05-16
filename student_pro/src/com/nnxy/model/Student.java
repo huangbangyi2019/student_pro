@@ -3,14 +3,14 @@ package com.nnxy.model;
 /**
  * @author huangbangyi
  * create date : 2019/5/16
- * description : 学生的实体类
+ * description : 脩搂脡煤碌脛脢碌脤氓脌脿
  */
 public class Student {
 
-	private int id;
-	private String name;
-	private int sex;
-	private int age;
+	private int id;//鍞竴ID
+	private String name;// 濮撳悕
+	private int sex;// 鎬у埆
+	private int age;//骞撮緞
 	
 	
 	public Student(int id, String name, int sex, int age) {
